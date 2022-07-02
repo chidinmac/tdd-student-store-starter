@@ -1,0 +1,28 @@
+nav{
+    background-color: rgb(84, 166, 177);
+    height: 75px;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
+}
+.navbar
+{
+  display: flex;
+  justify-content: space-between;
+
+}
+.nav-links
+{
+    display: flex;
+    align-items: center;
+}
+.navLink
+{
+    list-style: none;
+    display: flex;
+    position:relative;
+    padding-left: 200px;
+    text-align: center;
+    cursor: pointer;
+}
