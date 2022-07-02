@@ -1,0 +1,91 @@
+#order-history-button {
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+div .displayOrders {
+    z-index: 5;
+    background-color: rgb(84, 166, 177);
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+div .display-order-details {
+    z-index: 1;
+    background-color: rgb(10, 161, 149);
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+#order-name{
+    color: rgb(10, 161, 149);
+    cursor: pointer;
+}
+.closeOrders{
+    float: right;
+    color: white;
+    background-color: rgb(207, 41, 29);
+    border-radius: 10%;
+    width: 80px;
+    height: 30px;
+    margin-top: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.mapOrders{
+    display: flex;
+    background-color: aliceblue;
+    width: 1009px;
+    margin-bottom: 20px;
+    justify-content: center;
+    margin-left: 280px;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    padding: 5px;
+
+}
+
+#order-heading{
+    display: flex;
+    justify-content: center;
+    margin-right: 240px;
+}
+.each-order{
+    display: flex;
+    margin-right: 100px;
+    width: 150px;
+    display: block;
+    list-style: none;
+    padding-left: 27px;
+    font-family: cursive;
+    font-size: large;
+}
+.displayOrders h2{
+    font-family: cursive;
+    font-size: 40px;
+    text-align: center;
+}
+.order-details ul{
+    font-size: 25px;
+    font-family: cursive;
+    margin-left: 350px;
+}
+.displayOrders input{
+    margin-left: 350px;
+    height: 40px;
+    width: 400px;
+    border: 1px solid;
+    border-radius: 14px;
+    text-align: center;
+    font-size: 17px;
+}
+.Orders li button{
+    background-color: rgba(58, 156, 156, 0.5);
+    color: black;
+    font-family: cursive;
+    font-size: 15px;
+}

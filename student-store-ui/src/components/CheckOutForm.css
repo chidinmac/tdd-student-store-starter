@@ -1,0 +1,36 @@
+.row{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.col-1{
+    flex: 1
+}
+.col-2{
+    display: flex;
+}
+.block{
+    background-color: #e0e0e0;
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 0.5rem;
+}
+button.add
+{
+    background-color: aqua;
+    width: 1.5rem;
+}
+button.remove
+{
+    background-color: #f04040;
+    width: 1.5rem;
+}
+.checkOut-btn{
+    color:rgb(241, 231, 231);
+      padding: 5px;
+      background-color: black;
+      border-radius: 10%;
+  }
+  input{
+      margin-bottom: 10px;
+  }
