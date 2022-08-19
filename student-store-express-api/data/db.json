@@ -145,5 +145,219 @@
       "price": 999.99
     }
   ],
-  "purchases": []
+  "purchases": [
+    {
+      "purchaseId": "72d15a17-a410-45b9-9a7a-0b71edf6f7aa",
+      "name": "Precious",
+      "email": "Precious@gmail.com",
+      "total_price": "4.33",
+      "order": [
+        {
+          "name": "Rice Krispies",
+          "qty": 1,
+          "id": 1,
+          "price": "0.99"
+        },
+        {
+          "name": "Cinnamon Rolls",
+          "qty": 1,
+          "id": 3,
+          "price": "2.99"
+        }
+      ],
+      "createdAt": "2022-06-30T06:01:33.369Z"
+    },
+    {
+      "purchaseId": "298befc4-66c0-47bf-8c4d-2de804aee8f4",
+      "name": "CC",
+      "email": "CC@fb.com",
+      "total_price": "40.75",
+      "order": [
+        {
+          "name": "Fruit Medley",
+          "qty": 1,
+          "id": 5,
+          "price": "7.50"
+        },
+        {
+          "name": "Striped Socks",
+          "qty": 2,
+          "id": 7,
+          "price": "4.99"
+        },
+        {
+          "name": "Knitted Beanie",
+          "qty": 1,
+          "id": 8,
+          "price": "19.99"
+        }
+      ],
+      "createdAt": "2022-06-30T06:04:38.581Z"
+    },
+    {
+      "purchaseId": "72e28609-7f90-4570-a387-ca0260f67e8e",
+      "name": "Cherry Blossom",
+      "email": "Maple@yahoo.com",
+      "total_price": "119.63",
+      "order": [
+        {
+          "name": "Keyboard",
+          "qty": 1,
+          "id": 14,
+          "price": "110.00"
+        }
+      ],
+      "createdAt": "2022-06-30T06:22:46.181Z"
+    },
+    {
+      "purchaseId": "a0f51c48-09bc-4f71-a740-9c8c876ed5e9",
+      "name": "KGB",
+      "email": "Rostova@kgb.com",
+      "total_price": "4.88",
+      "order": [
+        {
+          "name": "Flamin Hot Cheetos",
+          "qty": 1,
+          "id": 2,
+          "price": "1.50"
+        },
+        {
+          "name": "Cinnamon Rolls",
+          "qty": 1,
+          "id": 3,
+          "price": "2.99"
+        }
+      ],
+      "createdAt": "2022-06-30T17:52:11.723Z"
+    },
+    {
+      "purchaseId": "e1359374-787e-43ea-ab25-8a889398718a",
+      "name": "Katarina Rostova",
+      "email": "Rostova@kgb.com",
+      "total_price": "6.50",
+      "order": [
+        {
+          "name": "Cinnamon Rolls",
+          "qty": 2,
+          "id": 3,
+          "price": "2.99"
+        }
+      ],
+      "createdAt": "2022-06-30T17:55:41.954Z"
+    },
+    {
+      "purchaseId": "7d54c289-0feb-4715-acb2-c272c6e80a53",
+      "name": "James",
+      "email": "Johnny@gmail.com",
+      "total_price": "293.63",
+      "order": [
+        {
+          "name": "Matching Rings",
+          "qty": 1,
+          "id": 11,
+          "price": "200.00"
+        },
+        {
+          "name": "Copper Bracelet",
+          "qty": 1,
+          "id": 13,
+          "price": "70.00"
+        }
+      ],
+      "createdAt": "2022-06-30T18:32:47.358Z"
+    },
+    {
+      "purchaseId": "429ebb0e-ea01-40c2-bfdf-8f6fa62a7cd8",
+      "name": "Jamike ",
+      "email": "Jamike@ambassadors.com",
+      "total_price": "6.24",
+      "order": [
+        {
+          "name": "Rice Krispies",
+          "qty": 1,
+          "id": 1,
+          "price": "0.99"
+        },
+        {
+          "name": "Flamin Hot Cheetos",
+          "qty": 1,
+          "id": 2,
+          "price": "1.50"
+        },
+        {
+          "name": "Coconut Water",
+          "qty": 1,
+          "id": 4,
+          "price": "3.25"
+        }
+      ],
+      "createdAt": "2022-07-01T01:00:00.000Z"
+    },
+    {
+      "purchaseId": "f0a7190e-aad8-41f7-9127-4012f3164515",
+      "name": "Chidinma Chinedu",
+      "email": "ChidinmaChinedu@fb.com",
+      "total_price": "519.74",
+      "order": [
+        {
+          "name": "Cinnamon Rolls",
+          "qty": 1,
+          "id": 3,
+          "price": "2.99"
+        },
+        {
+          "name": "Striped Socks",
+          "qty": 1,
+          "id": 7,
+          "price": "4.99"
+        },
+        {
+          "name": "Knitted Beanie",
+          "qty": 1,
+          "id": 8,
+          "price": "19.99"
+        },
+        {
+          "name": "Bar Code Shirts",
+          "qty": 2,
+          "id": 6,
+          "price": "19.99"
+        },
+        {
+          "name": "Pullover Sweater",
+          "qty": 2,
+          "id": 9,
+          "price": "4.99"
+        },
+        {
+          "name": "Apple Watch",
+          "qty": 1,
+          "id": 12,
+          "price": "399.99"
+        }
+      ],
+      "createdAt": "2022-07-02T00:48:32.383Z"
+    },
+    {
+      "purchaseId": "98d2349d-a4a3-4317-8d33-1169b0ff51f2",
+      "name": "Justin",
+      "email": "JJ@cc.com",
+      "total_price": "6.79",
+      "order": [
+        {
+          "name": "Cinnamon Rolls",
+          "qty": 1,
+          "id": 3,
+          "price": "2.99"
+        },
+        {
+          "name": "Coconut Water",
+          "qty": 1,
+          "id": 4,
+          "price": "3.25"
+        }
+      ],
+      "createdAt": "2022-07-02T01:10:18.154Z"
+    }
+  ]
 }
